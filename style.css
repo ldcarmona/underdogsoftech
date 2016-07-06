@@ -1,0 +1,42 @@
+
+body{
+
+	background-image: url(https://cdn.hyperdev.com/us-east-1%3A872d6385-2f6a-4402-b9ba-41b8b91ef347%2Fbackground.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center; 
+	background-attachment: fixed;
+	margin: 0; 
+}
+a:link, a:visited {
+    background-color:  #007EA7;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family:'Allura',cursive;
+}
+
+a:hover, a:active {
+    background-color: #8075FF;
+    color: white;
+}
+
+ul{
+	list-style-type: none;
+	list-style-position: center;
+	color: #FFF;
+}
+
+li{
+	text-align:center;
+	font-size: 40px;
+	margin-top: 300px;
+	margin-right:700px;
+	margin-left:40%;
+
+}
+
+
