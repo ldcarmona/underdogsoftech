@@ -1,3 +1,9 @@
+body {
+    background-color: #3B9FE8;
+}
+
+
+
 ul {
 	list-style-type: none;
     margin: 0;
@@ -23,8 +29,31 @@ li a:hover {
     background-color: #111;
 }
 
-.container{
-  margin-top: 10%;
-  border-style: ridge;
-  
+.section{
+    margin-top: 10%;
+    margin-right: 8.2222%;
+    margin-left: 10%;
+
+   
+}
+
+img{
+border-radius: 50%;
+
+}
+
+#christina{
+    margin-right: 8.3%;
+}
+
+#luis{
+    margin-right: 8.9%;
+}
+
+#isaiah{
+    margin-right: 4%;
+}
+
+#steven {
+    margin-right: 5%;
 }
