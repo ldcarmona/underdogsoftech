@@ -1,5 +1,5 @@
 body {
-    background-color: #3B9FE8;
+    background-color: #01172F;
 }
 
 
@@ -11,6 +11,7 @@ ul {
     overflow: hidden;
     background-color: #333;
     margin: -10px;
+    font-family: 'Allerta Stencil', sans-serif;
 }
 
 li {
