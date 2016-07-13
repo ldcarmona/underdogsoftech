@@ -1,15 +1,15 @@
 body{
-    background-image: url(img/curtain.png);
+    background-color: black;
 }
 
 
 ul {
     list-style-type: none;
-    margin: 10px;
-    padding: 0;
     overflow: hidden;
-    background-color: #333;
-     font-family: 'Allerta Stencil', sans-serif;
+    background-color: black;
+    margin: -10px;
+    font-family: 'Allerta Stencil', sans-serif;
+    width: 100%;
 }
 
 li {
@@ -25,5 +25,10 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #808080;
+}
+
+#iframe {
+    margin-left: -1%;
+    margin-top: .4%;
 }
