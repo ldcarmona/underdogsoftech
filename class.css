@@ -34,11 +34,6 @@ li a:hover {
     background-color: #808080;
 }
 
-#iframe {
-    margin-left: -1%;
-    margin-top: .4%;
-}
-
 .banner {
     background: url(img/laptop.jpg);
     background-attachment: fixed;
