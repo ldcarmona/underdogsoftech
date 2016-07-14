@@ -98,6 +98,18 @@ li a:hover {
     color: white;
 }
 
+.imgsweb {
+    text-align: center;
+    margin-top: 0%;
+    margin-left: -10px;
+    margin-bottom: -30px;
+    background-color: white;
+    border: 1px black;
+    width: 101.5%;
+    background: rgba(204, 204, 204, 0.5);
+    color: black;
+}
+
 .ppublicspeaking {
     margin-top: -11%;
     margin-bottom: -0.5%;
