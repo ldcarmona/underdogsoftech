@@ -1,15 +1,21 @@
+html,
+
 body{
-    background-color: black;
+    background-color: #333333;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Allerta Stencil', sans-serif;
 }
 
 
 ul {
     list-style-type: none;
+    padding: 1px;
     overflow: hidden;
     background-color: black;
     margin: -10px;
     font-family: 'Allerta Stencil', sans-serif;
-    width: 100%;
 }
 
 li {
@@ -31,4 +37,60 @@ li a:hover {
 #iframe {
     margin-left: -1%;
     margin-top: .4%;
+}
+
+.banner {
+    background: url(img/laptop.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 350px;
+    width: 101.5%;
+    margin: 9px -10px;   
+    text-align: center;
+    color: white;
+}
+
+.pgerund {
+    margin-top: -8%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.pgerund2 {
+    padding: -10px 36.5px;
+    text-align: center;
+    margin-left: -30px;
+    margin-top: 5%;
+    margin-bottom: -30px;
+    background-color: white;
+    border: 1px black;
+    width: 103.1%;
+    background: rgba(204, 204, 204, 0.8);
+    color: black;
+}
+
+.videogerund {
+    margin-top: 2%;
+}
+
+.phardware {
+    margin-top: -10%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.phardware2 {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: -10px;
+    margin-bottom: -30px;
+    background-color: white;
+    border: 1px black;
+    width: 101.5%;
+    background: rgba(204, 204, 204, 0.8);
+    color: black;
+}
+
+.videohardware {
+    margin-top: 2%;
 }
