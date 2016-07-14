@@ -146,6 +146,10 @@ li a:hover {
 
 }
 
+.flags {
+    text-align: center;
+}
+
 .section {
     padding: -10px 36.5px;
     margin-left: -10px;
