@@ -139,7 +139,7 @@ li a:hover {
 }
 
 .monthly {
-    padding: 30px 30px;
+    padding: 5px 30px;
     background-color: white;
     text-align: center;
     font-size: 27px;
@@ -154,7 +154,7 @@ li a:hover {
 }
 
 .yearly {
-    padding: 30px 30px;
+    padding: 10px 30px;
     background-color: white;
     text-align: center;
     font-size: 27px;
@@ -169,7 +169,7 @@ li a:hover {
 }
 
 .months {
-    padding: 30px 30px;
+    padding: 5px 30px;
     background-color: white;
     text-align: center;
     font-size: 27px;
